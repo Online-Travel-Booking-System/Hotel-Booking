@@ -1,0 +1,12 @@
+/*localhost:8011/admin/bookhotel/addhotel*/
+{
+    "userName":"Meenu",
+    "bookingStatus":"true",
+	"hotelName":"Harati Hotel",
+	"noOfDays":"2",
+	"cost":"50",
+	"totalCost":"100",
+	"startDate":"11/12/2022",
+	"endDate":"13/12/2022"
+}
+
